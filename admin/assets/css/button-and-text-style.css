@@ -1,0 +1,32 @@
+.btn-color {
+  background: #C70039;
+  border: 0;
+  color: #FFF;
+  cursor: pointer;
+}
+
+.btn-color-2 {
+  background: #FFF;
+  border: #C70039 solid 1px;
+  color: #C70039;
+  cursor: pointer;
+}
+
+.btn-color:hover {
+  background: #FFF;
+  border: #C70039 solid 1px;
+  border-radius: 0;
+  color: #C70039;
+  cursor: pointer;
+}
+
+.btn-color-2:hover {
+  background: #C70039;
+  border-radius: 0;
+  color: #FFF;
+  cursor: pointer;
+}
+
+.text-color {
+  color: #C70039;
+}

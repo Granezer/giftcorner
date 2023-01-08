@@ -1,0 +1,21 @@
+RewriteEngine on
+
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteCond %{REQUEST_FILENAME}\.php -f
+
+RewriteRule ^(.*)$ $1.php
+
+ErrorDocument 404 http://localhost/nnanke
+
+
+SetEnv HOSTS localhost
+SetEnv USER root
+SetEnv PWD 
+SetEnv DB gift_corner
+SetEnv COM_TITLE 'Giftcorner NG'
+SetEnv COM_SHORT_TITLE Giftcorner
+SetEnv EMAIL_TITLE Giftcorner
+SetEnv TIME_ZONE 'Africa/Lagos'
+SetEnv BASIC_URL 'http://localhost/giftcorner/'
+SetEnv SMS_TITLE 'Giftcorner'

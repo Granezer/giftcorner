@@ -1,0 +1,39 @@
+.add-button {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 9999;
+    margin: auto;
+    display: none;
+}
+
+.card {
+  background: #C70039;
+  border: 0;
+  width: 100%;
+  box-shadow: 0 1px 20px 0px rgba(0, 0, 0, 0.1);
+}
+
+.card .card-body {
+  padding: 15px;
+}
+
+.card .card-body .card-description {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.card .card-footer {
+  background-color: transparent;
+  border: 0;
+  padding: 15px;
+}
+
+.card .card-footer h6 {
+  margin-bottom: 0;
+  padding: 7px 0;
+}
+
+.card-body {
+  padding: 1.25rem;
+}

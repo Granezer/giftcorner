@@ -1,0 +1,37 @@
+[06-May-2020 14:05:51 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class 'Users\WishLists' not found in /home/purevung/public_html/admin/classes/Users/Login.php:18
+Stack trace:
+#0 /home/purevung/public_html/admin/classes/actions/users/login.php(49): Users\Login->__construct()
+#1 {main}
+  thrown in /home/purevung/public_html/admin/classes/Users/Login.php on line 18
+[16-Jun-2020 10:04:56 Africa/Lagos] PHP Notice:  Undefined index: device_name in /home/purevung/public_html/admin/classes/actions/users/login.php on line 13
+[16-Jun-2020 10:04:56 Africa/Lagos] PHP Notice:  Undefined index: device_id in /home/purevung/public_html/admin/classes/actions/users/login.php on line 14
+[16-Jun-2020 10:05:02 Africa/Lagos] PHP Notice:  Undefined index: device_name in /home/purevung/public_html/admin/classes/actions/users/login.php on line 13
+[16-Jun-2020 10:05:02 Africa/Lagos] PHP Notice:  Undefined index: device_id in /home/purevung/public_html/admin/classes/actions/users/login.php on line 14
+[16-Jun-2020 10:05:05 Africa/Lagos] PHP Notice:  Undefined index: device_name in /home/purevung/public_html/admin/classes/actions/users/login.php on line 13
+[16-Jun-2020 10:05:05 Africa/Lagos] PHP Notice:  Undefined index: device_id in /home/purevung/public_html/admin/classes/actions/users/login.php on line 14
+[16-Jun-2020 10:05:06 Africa/Lagos] PHP Notice:  Undefined index: device_name in /home/purevung/public_html/admin/classes/actions/users/login.php on line 13
+[16-Jun-2020 10:05:06 Africa/Lagos] PHP Notice:  Undefined index: device_id in /home/purevung/public_html/admin/classes/actions/users/login.php on line 14
+[16-Jun-2020 10:05:15 Africa/Lagos] PHP Notice:  Undefined index: device_name in /home/purevung/public_html/admin/classes/actions/users/login.php on line 13
+[16-Jun-2020 10:05:15 Africa/Lagos] PHP Notice:  Undefined index: device_id in /home/purevung/public_html/admin/classes/actions/users/login.php on line 14
+[16-Jun-2020 10:05:35 Africa/Lagos] PHP Notice:  Undefined index: device_name in /home/purevung/public_html/admin/classes/actions/users/login.php on line 13
+[16-Jun-2020 10:05:35 Africa/Lagos] PHP Notice:  Undefined index: device_id in /home/purevung/public_html/admin/classes/actions/users/login.php on line 14
+[16-Jun-2020 10:05:40 Africa/Lagos] PHP Notice:  Undefined index: device_name in /home/purevung/public_html/admin/classes/actions/users/login.php on line 13
+[16-Jun-2020 10:05:40 Africa/Lagos] PHP Notice:  Undefined index: device_id in /home/purevung/public_html/admin/classes/actions/users/login.php on line 14
+[16-Jun-2020 10:05:48 Africa/Lagos] PHP Notice:  Undefined index: device_name in /home/purevung/public_html/admin/classes/actions/users/login.php on line 13
+[16-Jun-2020 10:05:48 Africa/Lagos] PHP Notice:  Undefined index: device_id in /home/purevung/public_html/admin/classes/actions/users/login.php on line 14
+[16-Jun-2020 10:05:52 Africa/Lagos] PHP Notice:  Undefined index: device_name in /home/purevung/public_html/admin/classes/actions/users/login.php on line 13
+[16-Jun-2020 10:05:52 Africa/Lagos] PHP Notice:  Undefined index: device_id in /home/purevung/public_html/admin/classes/actions/users/login.php on line 14
+[16-Jun-2020 10:05:58 Africa/Lagos] PHP Notice:  Undefined index: device_name in /home/purevung/public_html/admin/classes/actions/users/login.php on line 13
+[16-Jun-2020 10:05:58 Africa/Lagos] PHP Notice:  Undefined index: device_id in /home/purevung/public_html/admin/classes/actions/users/login.php on line 14
+[16-Jun-2020 10:06:03 Africa/Lagos] PHP Notice:  Undefined index: device_name in /home/purevung/public_html/admin/classes/actions/users/login.php on line 13
+[16-Jun-2020 10:06:03 Africa/Lagos] PHP Notice:  Undefined index: device_id in /home/purevung/public_html/admin/classes/actions/users/login.php on line 14
+[16-Jun-2020 10:06:08 Africa/Lagos] PHP Notice:  Undefined index: device_name in /home/purevung/public_html/admin/classes/actions/users/login.php on line 13
+[16-Jun-2020 10:06:08 Africa/Lagos] PHP Notice:  Undefined index: device_id in /home/purevung/public_html/admin/classes/actions/users/login.php on line 14
+[16-Jun-2020 10:06:09 Africa/Lagos] PHP Notice:  Undefined index: device_name in /home/purevung/public_html/admin/classes/actions/users/login.php on line 13
+[16-Jun-2020 10:06:09 Africa/Lagos] PHP Notice:  Undefined index: device_id in /home/purevung/public_html/admin/classes/actions/users/login.php on line 14
+[16-Jun-2020 10:06:10 Africa/Lagos] PHP Notice:  Undefined index: device_name in /home/purevung/public_html/admin/classes/actions/users/login.php on line 13
+[16-Jun-2020 10:06:10 Africa/Lagos] PHP Notice:  Undefined index: device_id in /home/purevung/public_html/admin/classes/actions/users/login.php on line 14
+[16-Jun-2020 10:09:26 Africa/Lagos] PHP Notice:  Undefined index: device_name in /home/purevung/public_html/admin/classes/actions/users/login.php on line 13
+[16-Jun-2020 10:09:26 Africa/Lagos] PHP Notice:  Undefined index: device_id in /home/purevung/public_html/admin/classes/actions/users/login.php on line 14
+[16-Jun-2020 10:09:34 Africa/Lagos] PHP Notice:  Undefined index: device_name in /home/purevung/public_html/admin/classes/actions/users/login.php on line 13
+[16-Jun-2020 10:09:34 Africa/Lagos] PHP Notice:  Undefined index: device_id in /home/purevung/public_html/admin/classes/actions/users/login.php on line 14
